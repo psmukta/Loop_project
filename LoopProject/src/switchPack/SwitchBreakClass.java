@@ -1,4 +1,4 @@
-package switchPack;
+ package switchPack;
 
 public class SwitchBreakClass {
 
